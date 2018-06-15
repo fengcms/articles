@@ -227,7 +227,7 @@ curl http://__YOU_DOMAIN_IN_HERE__/api/v1/upimg -F "file=@__UPFILE__PATH__" -H "
 
 如下图配置 MWeb 编辑器，然后在里面写文章的时候，就太TM方便啦。随便一个屏幕截图，也不需要保存，直接到编辑器中粘贴，就会自动上传，并获取地址，变成 markdown 代码存好。
 
-![20180614104107](http://i.fengcss.com/?path=/7f/bd8f43f8166b9b14f3e024996ffa4d.png)
+![20180614104107](https://raw.githubusercontent.com/fengcms/articles/master/image/7f/bd8f43f8166b9b14f3e024996ffa4d.png)
 
 本地图片也是非常方便，直接往编辑器中一拖动，就可以了。
 

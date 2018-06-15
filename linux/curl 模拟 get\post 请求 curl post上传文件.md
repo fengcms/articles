@@ -20,7 +20,7 @@ curl localhost:9999/api/daizhige/article -v
 
 操作结果如下图所示：
 
-![curl get 请求](http://i.fengcss.com/?path=/39/a82372f54d55cd0e383dc91f03726f.jpg)
+![curl get 请求](https://raw.githubusercontent.com/fengcms/articles/master/image/39/a82372f54d55cd0e383dc91f03726f.jpg)
 
 
 ## curl POST 请求
@@ -45,7 +45,7 @@ curl localhost:9999/api/daizhige/article -X POST -H "Content-Type:application/js
 
 同样，我们可以用 `-v` 来查看详情。
 
-![curl POST 请求](http://i.fengcss.com/?path=/dc/8d5af88b2b876f4975c197079ec6ea.jpg)
+![curl POST 请求](https://raw.githubusercontent.com/fengcms/articles/master/image/dc/8d5af88b2b876f4975c197079ec6ea.jpg)
 
 ## curl POST 上传文件
 
@@ -59,7 +59,7 @@ curl localhost:8000/api/v1/upimg -F "file=@/Users/fungleo/Downloads/401.png" -H 
 
 执行结果如下图所示：
 
-![curl POST 上传文件](http://i.fengcss.com/?path=/38/71194ba9c6156a1e249187aa2ea948.jpg)
+![curl POST 上传文件](https://raw.githubusercontent.com/fengcms/articles/master/image/38/71194ba9c6156a1e249187aa2ea948.jpg)
 
 更多 `curl` 的使用方法，以及参数说明，可以在系统中输入 `man curl` 来进行查看。或者，点击 [curl man](https://curl.haxx.se/docs/manpage.html) 查看网页版的介绍。
 
