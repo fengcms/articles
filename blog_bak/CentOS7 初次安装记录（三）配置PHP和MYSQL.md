@@ -1,6 +1,6 @@
 title: CentOS7 初次安装记录（三）配置PHP和MYSQL
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-11-17 17:50:35 +0800
+update: 2015-11-17 17:50:35 +0800
 author: fungleo
 tags:
     -centos

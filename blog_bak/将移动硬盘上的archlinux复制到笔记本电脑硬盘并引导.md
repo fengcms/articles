@@ -1,6 +1,6 @@
 title: 将移动硬盘上的archlinux复制到笔记本电脑硬盘并引导
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-06-12 17:27:12 +0800
+update: 2017-06-12 17:27:12 +0800
 author: fungleo
 tags:
     -arch linux

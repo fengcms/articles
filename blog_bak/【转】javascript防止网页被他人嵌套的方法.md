@@ -1,6 +1,6 @@
 title: 【转】javascript防止网页被他人嵌套的方法
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-11-27 19:59:36 +0800
+update: 2015-11-27 19:59:36 +0800
 author: fungleo
 tags:
     -javascript

@@ -1,6 +1,6 @@
 title: 打造前端 Deepin Linux 工作环境——安装配置 atom 编辑器
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-11-03 14:57:15 +0800
+update: 2017-11-03 14:57:15 +0800
 author: fungleo
 tags:
     -atom

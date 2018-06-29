@@ -1,6 +1,6 @@
 title: Atom 编辑器安装 linter-eslint 插件，并配置使其支持 vue 文件中的 js 格式校验
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-01-17 12:14:20 +0800
+update: 2017-01-17 12:14:20 +0800
 author: fungleo
 tags:
     -atom

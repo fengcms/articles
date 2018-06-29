@@ -1,6 +1,6 @@
 title: Vue2+VueRouter2+webpack 构建项目实战（六）修复代码并通过验证，另发布代码
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-01-18 16:56:10 +0800
+update: 2017-01-18 16:56:10 +0800
 author: fungleo
 tags:
     -vue

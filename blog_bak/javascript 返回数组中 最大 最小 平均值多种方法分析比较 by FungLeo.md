@@ -1,6 +1,6 @@
 title: javascript 返回数组中 最大 最小 平均值多种方法分析比较 by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-05-26 13:42:27 +0800
+update: 2016-05-26 13:42:27 +0800
 author: fungleo
 tags:
     -javascript

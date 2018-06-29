@@ -1,6 +1,6 @@
-title: 【转载】谷歌 HTML:CSS 规范
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+title: 【转载】谷歌 HTML/CSS 规范
+date: 2017-01-05 18:55:07 +0800
+update: 2017-01-05 18:55:07 +0800
 author: fungleo
 tags:
     -html

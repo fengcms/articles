@@ -1,6 +1,6 @@
 title: MAC版画图软件 paintbrush 推荐，类似 windows 上系统自带的画图软件
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-07-12 14:22:46 +0800
+update: 2017-07-12 14:22:46 +0800
 author: fungleo
 tags:
     -mac

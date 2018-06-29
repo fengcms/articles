@@ -1,6 +1,6 @@
 title: CentOS7 初次安装记录（五）配置 apache 虚拟主机
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-11-18 14:59:16 +0800
+update: 2015-11-18 14:59:16 +0800
 author: fungleo
 tags:
     -centos

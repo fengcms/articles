@@ -1,6 +1,6 @@
 title: centos7 yum 更新出现 [Errno 14] HTTP Error 404 - Not Found 的解决方法
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-03-17 15:56:10 +0800
+update: 2016-03-17 15:56:10 +0800
 author: fungleo
 tags:
     -centos

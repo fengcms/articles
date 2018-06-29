@@ -1,6 +1,6 @@
 title: [转]为什么浏览器User-agent总是有Mozilla字样
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-06-29 09:30:36 +0800
+update: 2017-06-29 09:30:36 +0800
 author: fungleo
 tags:
     -mozilla

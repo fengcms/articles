@@ -1,6 +1,6 @@
 title: javascript 学习小结 JS装逼技巧(一) by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-05-11 21:47:10 +0800
+update: 2016-05-11 21:47:10 +0800
 author: fungleo
 tags:
     -javascript

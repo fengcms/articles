@@ -1,6 +1,6 @@
 title: 初探 利用 javascript 开发 Chrome 浏览器插件
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-11-05 18:44:48 +0800
+update: 2015-11-05 18:44:48 +0800
 author: fungleo
 tags:
     -javascript

@@ -1,6 +1,6 @@
 title: Python3 初学实践案例（8）使用 sqlite3 数据库存储生成的密码，prettytable 的使用
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-12-20 18:17:39 +0800
+update: 2017-12-20 18:17:39 +0800
 author: fungleo
 tags:
     -数据库

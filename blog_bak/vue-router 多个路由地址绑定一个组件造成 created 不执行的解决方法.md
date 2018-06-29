@@ -1,6 +1,6 @@
 title: vue-router 多个路由地址绑定一个组件造成 created 不执行的解决方法
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-01-06 17:08:54 +0800
+update: 2017-01-06 17:08:54 +0800
 author: fungleo
 tags:
     -vue-router

@@ -1,6 +1,6 @@
 title: jQury animate操作 background-position 方法
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-09-08 13:07:43 +0800
+update: 2015-09-08 13:07:43 +0800
 author: fungleo
 tags:
     -jquery

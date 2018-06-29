@@ -1,6 +1,6 @@
 title: shell命令行，一键创建 python 模板文件脚本
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-12-20 10:39:48 +0800
+update: 2017-12-20 10:39:48 +0800
 author: fungleo
 tags:
     -python

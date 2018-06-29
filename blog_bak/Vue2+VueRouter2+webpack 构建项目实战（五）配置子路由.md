@@ -1,6 +1,6 @@
 title: Vue2+VueRouter2+webpack 构建项目实战（五）配置子路由
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-11-18 10:14:17 +0800
+update: 2016-11-18 10:14:17 +0800
 author: fungleo
 tags:
     -Vue2

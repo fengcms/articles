@@ -1,6 +1,6 @@
 title: 打造前端MAC工作站（八）配置称手的 chrome 和 safari 浏览器
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-03-01 16:38:30 +0800
+update: 2017-03-01 16:38:30 +0800
 author: fungleo
 tags:
     -chrome

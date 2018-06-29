@@ -1,6 +1,6 @@
 title: jQuery 获取多选框值,以及多选框中文的函数实践 by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-05-16 13:51:29 +0800
+update: 2016-05-16 13:51:29 +0800
 author: fungleo
 tags:
     -jquery

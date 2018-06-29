@@ -1,6 +1,6 @@
 title: nodejs 升级后， vue+webpack 项目 node-sass 报错的解决方法
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-11-13 14:06:57 +0800
+update: 2017-11-13 14:06:57 +0800
 author: fungleo
 tags:
     -nodejs

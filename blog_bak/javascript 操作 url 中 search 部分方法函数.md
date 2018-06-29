@@ -1,6 +1,6 @@
 title: javascript 操作 url 中 search 部分方法函数
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-06-14 18:03:20 +0800
+update: 2016-06-14 18:03:20 +0800
 author: fungleo
 tags:
     -javascript

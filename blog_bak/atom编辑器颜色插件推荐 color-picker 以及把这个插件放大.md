@@ -1,6 +1,6 @@
 title: atom编辑器颜色插件推荐 color-picker 以及把这个插件放大
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-11-09 12:42:07 +0800
+update: 2016-11-09 12:42:07 +0800
 author: fungleo
 tags:
     -atom

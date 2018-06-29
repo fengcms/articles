@@ -1,6 +1,6 @@
 title: windows10+iis7+php+mysql 配置
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-12-14 00:07:16 +0800
+update: 2015-12-14 00:07:16 +0800
 author: fungleo
 tags:
     -windows

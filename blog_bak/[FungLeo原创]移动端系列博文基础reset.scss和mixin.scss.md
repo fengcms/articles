@@ -1,6 +1,6 @@
 title: [FungLeo原创]移动端系列博文基础reset.scss和mixin.scss
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-03-13 14:26:51 +0800
+update: 2016-03-13 14:26:51 +0800
 author: fungleo
 tags:
     -reset

@@ -1,6 +1,6 @@
 title: 打造前端 Deepin Linux 工作环境——调节鼠标滚轮速度
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-11-05 02:29:23 +0800
+update: 2017-11-05 02:29:23 +0800
 author: fungleo
 tags:
     -deepin

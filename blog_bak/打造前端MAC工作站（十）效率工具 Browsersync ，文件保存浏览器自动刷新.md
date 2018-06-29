@@ -1,6 +1,6 @@
 title: 打造前端MAC工作站（十）效率工具 Browsersync ，文件保存浏览器自动刷新
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-03-05 20:55:50 +0800
+update: 2017-03-05 20:55:50 +0800
 author: fungleo
 tags:
     -Browsersyn

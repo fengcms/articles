@@ -1,6 +1,6 @@
 title: javascript 实现简单 ajax 效果（不支持跨域）
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-09-10 14:57:30 +0800
+update: 2015-09-10 14:57:30 +0800
 author: fungleo
 tags:
     -javascript

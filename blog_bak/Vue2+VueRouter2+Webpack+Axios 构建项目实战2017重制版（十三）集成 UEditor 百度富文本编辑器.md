@@ -1,6 +1,6 @@
 title: Vue2+VueRouter2+Webpack+Axios 构建项目实战2017重制版（十三）集成 UEditor 百度富文本编辑器
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-09-06 15:57:21 +0800
+update: 2017-09-06 15:57:21 +0800
 author: fungleo
 tags:
     -vue

@@ -1,6 +1,6 @@
 title: 让ATOM编辑器的EMMET插件支持VUE文件的方法
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-08-09 14:56:57 +0800
+update: 2016-08-09 14:56:57 +0800
 author: fungleo
 tags:
     -atom

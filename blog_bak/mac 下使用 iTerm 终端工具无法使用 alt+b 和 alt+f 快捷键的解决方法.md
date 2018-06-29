@@ -1,6 +1,6 @@
 title: mac 下使用 iTerm 终端工具无法使用 alt+b 和 alt+f 快捷键的解决方法
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-09-21 19:13:21 +0800
+update: 2017-09-21 19:13:21 +0800
 author: fungleo
 tags:
     -mac

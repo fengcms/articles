@@ -1,6 +1,6 @@
 title: php + jquery 利用 smtp 实现发送邮件功能
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-11-01 13:32:24 +0800
+update: 2016-11-01 13:32:24 +0800
 author: fungleo
 tags:
     -jquery

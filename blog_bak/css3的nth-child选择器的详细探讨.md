@@ -1,6 +1,6 @@
 title: css3的nth-child选择器的详细探讨
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-03-06 16:16:09 +0800
+update: 2016-03-06 16:16:09 +0800
 author: fungleo
 tags:
     -css3

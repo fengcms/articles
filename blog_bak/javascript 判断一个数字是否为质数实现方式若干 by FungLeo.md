@@ -1,6 +1,6 @@
 title: javascript 判断一个数字是否为质数实现方式若干 by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-05-23 18:37:03 +0800
+update: 2016-05-23 18:37:03 +0800
 author: fungleo
 tags:
     -javascript

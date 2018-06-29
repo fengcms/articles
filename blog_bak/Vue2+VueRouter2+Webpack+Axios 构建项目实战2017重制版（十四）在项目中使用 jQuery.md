@@ -1,6 +1,6 @@
 title: Vue2+VueRouter2+Webpack+Axios 构建项目实战2017重制版（十四）在项目中使用 jQuery
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-09-07 11:32:37 +0800
+update: 2017-09-07 11:32:37 +0800
 author: fungleo
 tags:
     -jquery

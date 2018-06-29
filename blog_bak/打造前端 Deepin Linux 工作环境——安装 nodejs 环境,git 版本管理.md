@@ -1,6 +1,6 @@
 title: 打造前端 Deepin Linux 工作环境——安装 nodejs 环境,git 版本管理
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-11-03 13:57:31 +0800
+update: 2017-11-03 13:57:31 +0800
 author: fungleo
 tags:
     -git

@@ -1,6 +1,6 @@
 title: Vue2+VueRouter2+Webpack+Axios 构建项目实战2017重制版（三）认识项目所有文件
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-08-25 18:58:45 +0800
+update: 2017-08-25 18:58:45 +0800
 author: fungleo
 tags:
     -vue

@@ -1,6 +1,6 @@
 title: Vue2+VueRouter2+Webpack+Axios 构建项目实战2017重制版（十二）打包项目图片等资源的处理
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-09-02 10:03:57 +0800
+update: 2017-09-02 10:03:57 +0800
 author: fungleo
 tags:
     -webpack

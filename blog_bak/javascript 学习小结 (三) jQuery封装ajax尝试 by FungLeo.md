@@ -1,6 +1,6 @@
 title: javascript 学习小结 (三) jQuery封装ajax尝试 by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-05-25 13:13:09 +0800
+update: 2016-05-25 13:13:09 +0800
 author: fungleo
 tags:
     -javascript

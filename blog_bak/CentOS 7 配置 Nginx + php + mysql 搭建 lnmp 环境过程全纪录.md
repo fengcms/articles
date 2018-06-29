@@ -1,6 +1,6 @@
 title: CentOS 7 配置 Nginx + php + mysql 搭建 lnmp 环境过程全纪录
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-12-13 11:25:11 +0800
+update: 2017-12-13 11:25:11 +0800
 author: fungleo
 tags:
     -centos

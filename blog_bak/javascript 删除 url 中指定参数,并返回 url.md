@@ -1,6 +1,6 @@
 title: javascript 删除 url 中指定参数,并返回 url
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-06-23 13:52:18 +0800
+update: 2016-06-23 13:52:18 +0800
 author: fungleo
 tags:
     -javascript

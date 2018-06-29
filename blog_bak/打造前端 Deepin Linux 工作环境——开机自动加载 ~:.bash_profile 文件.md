@@ -1,6 +1,6 @@
-title: 打造前端 Deepin Linux 工作环境——开机自动加载 ~:.bash_profile 文件
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+title: 打造前端 Deepin Linux 工作环境——开机自动加载 ~/.bash_profile 文件
+date: 2017-11-06 09:59:49 +0800
+update: 2017-11-06 09:59:49 +0800
 author: fungleo
 tags:
     -deepin

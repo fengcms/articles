@@ -1,6 +1,6 @@
 title: javascript 判断数组中的重复内容的两种方法(修复BUG) by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-06-06 16:27:14 +0800
+update: 2016-06-06 16:27:14 +0800
 author: fungleo
 tags:
     -javascript

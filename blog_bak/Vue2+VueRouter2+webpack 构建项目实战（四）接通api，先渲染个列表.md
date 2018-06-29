@@ -1,6 +1,6 @@
 title: Vue2+VueRouter2+webpack 构建项目实战（四）接通api，先渲染个列表
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-11-17 16:41:36 +0800
+update: 2016-11-17 16:41:36 +0800
 author: fungleo
 tags:
     -Vue2

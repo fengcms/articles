@@ -1,6 +1,6 @@
 title: [转]前端开发问题之字符串日期转日期对象在safari浏览器中出现Invalid Date
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-09-28 15:38:43 +0800
+update: 2016-09-28 15:38:43 +0800
 author: fungleo
 tags:
     -safari

@@ -1,6 +1,6 @@
 title: javascript 从一组数据中找到指定的单条数据的方法 by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-06-01 14:05:29 +0800
+update: 2016-06-01 14:05:29 +0800
 author: fungleo
 tags:
     -javascript

@@ -1,6 +1,6 @@
 title: Shell 命令行，svn add 需要添加很多文件时的简化脚本
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-09-22 14:48:51 +0800
+update: 2017-09-22 14:48:51 +0800
 author: fungleo
 tags:
     -shell

@@ -1,6 +1,6 @@
 title: javascript 自己实现数字\字母和中文的混合排序方法 by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-06-04 10:55:58 +0800
+update: 2016-06-04 10:55:58 +0800
 author: fungleo
 tags:
     -javascript

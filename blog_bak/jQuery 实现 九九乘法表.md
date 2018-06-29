@@ -1,6 +1,6 @@
 title: jQuery 实现 九九乘法表
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-09-06 16:54:18 +0800
+update: 2015-09-06 16:54:18 +0800
 author: fungleo
 tags:
     -jquery

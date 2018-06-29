@@ -1,6 +1,6 @@
 title: javascript 原生 模仿 jquery 选择器 代码
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-09-09 14:36:38 +0800
+update: 2015-09-09 14:36:38 +0800
 author: fungleo
 tags:
     -javascript

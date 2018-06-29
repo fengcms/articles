@@ -1,6 +1,6 @@
 title: javascript 数组排序sort方法和自我实现排序方法的学习小结 by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-06-01 14:14:01 +0800
+update: 2016-06-01 14:14:01 +0800
 author: fungleo
 tags:
     -javascript

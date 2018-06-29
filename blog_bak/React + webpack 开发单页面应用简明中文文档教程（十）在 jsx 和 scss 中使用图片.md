@@ -1,6 +1,6 @@
 title: React + webpack 开发单页面应用简明中文文档教程（十）在 jsx 和 scss 中使用图片
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2018-06-28 12:08:28 +0800
+update: 2018-06-28 12:08:28 +0800
 author: fungleo
 tags:
     -react

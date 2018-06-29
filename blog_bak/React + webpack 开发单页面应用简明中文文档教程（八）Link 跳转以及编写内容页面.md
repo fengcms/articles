@@ -1,6 +1,6 @@
 title: React + webpack 开发单页面应用简明中文文档教程（八）Link 跳转以及编写内容页面
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2018-06-28 12:06:15 +0800
+update: 2018-06-28 12:06:15 +0800
 author: fungleo
 tags:
     -react

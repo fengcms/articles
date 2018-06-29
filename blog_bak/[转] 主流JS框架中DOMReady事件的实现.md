@@ -1,6 +1,6 @@
 title: [转] 主流JS框架中DOMReady事件的实现
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-09-07 16:05:37 +0800
+update: 2015-09-07 16:05:37 +0800
 author: fungleo
 tags:
     -DOMReady事件

@@ -1,6 +1,6 @@
 title: 移动端H5之动态设置html的font-size的横屏BUG修复以及横屏提示 by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-04-22 16:59:39 +0800
+update: 2016-04-22 16:59:39 +0800
 author: fungleo
 tags:
     -移动端H5

@@ -1,6 +1,6 @@
 title: Vue2+VueRouter2+Webpack+Axios 构建项目实战2017重制版（二）安装 nodejs 环境以及 vue-cli 构建初始项目
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-08-25 17:49:49 +0800
+update: 2017-08-25 17:49:49 +0800
 author: fungleo
 tags:
     -Vue

@@ -1,6 +1,6 @@
 title: Vue2+VueRouter2+webpack 构建项目实战（二）目录以及文件结构
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-11-15 15:17:42 +0800
+update: 2016-11-15 15:17:42 +0800
 author: fungleo
 tags:
     -Vue

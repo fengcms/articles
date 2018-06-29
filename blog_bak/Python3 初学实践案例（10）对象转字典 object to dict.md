@@ -1,6 +1,6 @@
 title: Python3 初学实践案例（10）对象转字典 object to dict
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-12-22 14:58:51 +0800
+update: 2017-12-22 14:58:51 +0800
 author: fungleo
 tags:
     -python

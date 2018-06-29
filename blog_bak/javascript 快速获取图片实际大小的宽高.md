@@ -1,6 +1,6 @@
 title: javascript 快速获取图片实际大小的宽高
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-09-27 16:35:44 +0800
+update: 2017-09-27 16:35:44 +0800
 author: fungleo
 tags:
     -javascript

@@ -1,6 +1,6 @@
 title: javascript 学习小结 (二)新增小数取整各种方法 by FungLeo
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2016-05-20 14:30:35 +0800
+update: 2016-05-20 14:30:35 +0800
 author: fungleo
 tags:
     -javascript

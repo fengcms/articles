@@ -1,6 +1,6 @@
 title: mysql 命令行补全工具 mycli
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-05-10 11:57:45 +0800
+update: 2017-05-10 11:57:45 +0800
 author: fungleo
 tags:
     -mysql

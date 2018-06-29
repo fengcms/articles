@@ -1,6 +1,6 @@
 title: 打造前端MAC工作站（九）配置XAMMP,打造apache+php+mysql本地服务器
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-03-01 22:29:23 +0800
+update: 2017-03-01 22:29:23 +0800
 author: fungleo
 tags:
     -apache

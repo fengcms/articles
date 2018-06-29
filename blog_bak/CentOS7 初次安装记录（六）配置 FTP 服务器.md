@@ -1,6 +1,6 @@
 title: CentOS7 初次安装记录（六）配置 FTP 服务器
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-11-18 16:06:52 +0800
+update: 2015-11-18 16:06:52 +0800
 author: fungleo
 tags:
     -centos

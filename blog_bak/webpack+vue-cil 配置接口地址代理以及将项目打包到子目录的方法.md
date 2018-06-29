@@ -1,6 +1,6 @@
 title: webpack+vue-cil 配置接口地址代理以及将项目打包到子目录的方法
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-05-23 16:43:12 +0800
+update: 2017-05-23 16:43:12 +0800
 author: fungleo
 tags:
     -webpack

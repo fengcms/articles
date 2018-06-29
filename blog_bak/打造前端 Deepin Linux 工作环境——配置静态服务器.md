@@ -1,6 +1,6 @@
 title: 打造前端 Deepin Linux 工作环境——配置静态服务器
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-11-04 19:05:48 +0800
+update: 2017-11-04 19:05:48 +0800
 author: fungleo
 tags:
     -python

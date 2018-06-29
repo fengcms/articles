@@ -1,6 +1,6 @@
 title: FireFox 火狐浏览器57以上版本linux下隐藏标题栏方法插件
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-12-09 23:29:18 +0800
+update: 2017-12-09 23:29:18 +0800
 author: fungleo
 tags:
     -firefox

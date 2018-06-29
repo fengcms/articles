@@ -1,6 +1,6 @@
 title: 如何用原生 javascript 写一个选项卡？
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-09-09 17:05:35 +0800
+update: 2015-09-09 17:05:35 +0800
 author: fungleo
 tags:
     -javascript

@@ -1,6 +1,6 @@
-title: Shell 命令行，写一个自动整理 ~:Downloads: 文件夹下文件的脚本
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+title: Shell 命令行，写一个自动整理 ~/Downloads/ 文件夹下文件的脚本
+date: 2017-08-07 17:00:37 +0800
+update: 2017-08-07 17:00:37 +0800
 author: fungleo
 tags:
     -shell

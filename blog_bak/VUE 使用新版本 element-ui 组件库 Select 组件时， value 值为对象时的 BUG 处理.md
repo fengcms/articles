@@ -1,6 +1,6 @@
 title: VUE 使用新版本 element-ui 组件库 Select 组件时， value 值为对象时的 BUG 处理
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2017-09-21 16:25:48 +0800
+update: 2017-09-21 16:25:48 +0800
 author: fungleo
 tags:
     -element-ui

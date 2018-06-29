@@ -1,6 +1,6 @@
 title: 自己整理的一些javascript 的常用函数
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2015-09-10 17:33:33 +0800
+update: 2015-09-10 17:33:33 +0800
 author: fungleo
 tags:
     -javascript

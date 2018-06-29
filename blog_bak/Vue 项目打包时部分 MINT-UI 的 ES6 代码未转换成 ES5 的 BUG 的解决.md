@@ -1,6 +1,6 @@
 title: Vue 项目打包时部分 MINT-UI 的 ES6 代码未转换成 ES5 的 BUG 的解决
-date: 2018-06-29 00:00:00 +0800
-update: 2018-06-29 00:00:00 +0800
+date: 2018-02-26 18:00:38 +0800
+update: 2018-02-26 18:00:38 +0800
 author: fungleo
 tags:
     -Vue
